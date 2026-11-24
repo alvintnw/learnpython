@@ -13,3 +13,4 @@ Kumpulan file pembelajaran Python dasar.
 - `07_OperasiFile.py`
 - `08_StrukturData.py`
 - `09_TupleDanSet.py`
+- `10_ListComprehension.py`
